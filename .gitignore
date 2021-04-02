@@ -1,0 +1,12 @@
+############
+# database #
+############
+
+raw_data/
+small_data/
+
+#########
+# model #
+#########
+ 
+AI1.model
